@@ -1,6 +1,6 @@
 # Optimal Operation of a Building with Electricity-Heat Networks and Seasonal Storage
 
-The code is available in *operation_building.ipynb*. It includes many plots for the data used and the results.
+The code (in Julia) is available in *operation_building.ipynb*. It includes many plots for the data used and the results.
 
 We use the data from SIRTA and the tertiary building Drahi-X at Ecole Polytechnique, Paris, France. The data consists of hourly measurements between July of 2016 and July of 2022. From this, the data used are separated in different files, per component and time period, as detailed below. We also detail the dimensionning of the different components.
 
