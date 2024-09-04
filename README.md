@@ -2,7 +2,7 @@
 
 The code (in Julia) is available in *operation_building.ipynb*. It includes many plots for the data used and the results.
 
-We use the data from SIRTA and the tertiary building Drahi-X at Ecole Polytechnique, Paris, France. The data consists of hourly measurements between July of 2016 and July of 2022. From this, the data used are separated in different files, per component and time period, as detailed below. We also detail the dimensionning of the different components.
+We use the data from SIRTA and the tertiary building Drahi-X at Ecole Polytechnique, Paris, France. The data consists of hourly measurements between July of 2016 and July of 2022. From this, the data used are separated in different files, per component and time period, as detailed below. We also detail the dimensionning of the different components. We only use data from 2020 to 2022 here.
 
 ## Electricity Demand
 We use the hourly consumption for zone 2 of the building Drahi-X. For some periods, the data is missing. We identify the hours in which the consumption is equal to 0 and replace it with the consumption of one week before at the same time.
